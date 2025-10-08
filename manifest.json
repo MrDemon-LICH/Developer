@@ -2,12 +2,12 @@
   "response": [
     {
       "builddate": 20251007,
-      "md5": "ed2869e9b289eb957674a09358e9e560",
+      "md5": "a867d337d34cc6dacd47a533ba9a89fd",
       "patch": 20250801,
       "size": 5505439160,
       "bootloaderE": "A546EXXSFDYH1",
       "bootloaderB": "A546BXXSFDYH1",
-      "url": "https://sourceforge.net/projects/lichrom/files/SM-A546X/vendor.zip",
+      "url": "https://sourceforge.net/projects/lichrom/files/SM-A546X/test.zip",
       "version": "5.1.1"
     }
   ]
