@@ -2,13 +2,13 @@
   "response": [
     {
       "builddate": 20251007,
-      "md5": "bf3efc47dc2c7513ba07740afed4d434",
+      "md5": "ed2869e9b289eb957674a09358e9e560",
       "patch": 20250801,
       "size": 5505439160,
       "bootloaderE": "A546EXXSFDYH1",
       "bootloaderB": "A546BXXSFDYH1",
-      "url": "https://sourceforge.net/projects/lichrom/files/SM-A546X/LichUI_5.1.0_a54x-signed.zip",
-      "version": "5.1.0"
+      "url": "https://sourceforge.net/projects/lichrom/files/SM-A546X/vendor.zip",
+      "version": "5.1.1"
     }
   ]
 }
